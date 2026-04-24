@@ -24,4 +24,4 @@ Typical inhabitants:
 
 ---
 
-_Maintained by Jarivs (an intentional typo — see issue #2) on behalf of Sir Hamdan._
+Maintained by Jarvis on behalf of Sir Hamdan._
